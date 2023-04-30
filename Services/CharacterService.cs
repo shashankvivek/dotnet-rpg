@@ -37,7 +37,7 @@ namespace dotnet_rpg.Services
             }
             catch (Exception ex)
             {
-                serviceResponse.success = false;
+                serviceResponse.Success = false;
                 serviceResponse.Message = ex.Message;
             }
 
@@ -82,7 +82,7 @@ namespace dotnet_rpg.Services
             }
             catch (Exception ex)
             {
-                serviceResponse.success = false;
+                serviceResponse.Success = false;
                 serviceResponse.Message = ex.Message;
             }
 
