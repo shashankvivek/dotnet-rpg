@@ -7,6 +7,7 @@ namespace dotnet_rpg
             CreateMap<Character, GetCharacterDto>();
             CreateMap<GetCharacterDto,Character>();
             CreateMap<AddCharacterDto,Character>();
+            // CreateMap<>
         }
     }
 }

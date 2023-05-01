@@ -2,7 +2,7 @@
 
 using System.Security.Claims;
 
-namespace dotnet_rpg.Services
+namespace dotnet_rpg.Services.CharacterService
 {
     public class CharacterService : ICharacterService
     {
