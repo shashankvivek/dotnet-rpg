@@ -2,6 +2,7 @@ global using dotnet_rpg.Models;
 global using dotnet_rpg.Services.CharacterService;
 global using dotnet_rpg.Services.WeaponService;
 global using dotnet_rpg.Dtos.Character;
+global using dotnet_rpg.Dtos.Skill;
 global using dotnet_rpg.Dtos.User;
 global using dotnet_rpg.Dtos.Weapon;
 global using AutoMapper;
